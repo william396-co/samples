@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"github.com/beego/samples/WebIM/controllers"
+	"../controllers"
 	"github.com/astaxie/beego"
 )
 

@@ -1,9 +1,9 @@
 package controllers
 
 import (
+	"../models"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/cache"
-	"github.com/beego/samples/shorturl/models"
 )
 
 var (
