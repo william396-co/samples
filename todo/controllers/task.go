@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"strconv"
 
+	"../models"
 	"github.com/astaxie/beego"
-	"github.com/beego/samples/todo/models"
 )
 
 type TaskController struct {
